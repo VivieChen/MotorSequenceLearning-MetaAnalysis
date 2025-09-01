@@ -1,2 +1,2 @@
 # MotorSequenceLearning-MetaAnalysis
-A meta-analytic focused on motor sequence learning (MSL) research, including aggregated dataset
+A meta-analytic focusing on motor sequence learning (MSL) research, encompassing the datasets employed in the research.
