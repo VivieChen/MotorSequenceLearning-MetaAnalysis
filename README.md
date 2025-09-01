@@ -1,2 +1,2 @@
 # MotorSequenceLearning-MetaAnalysis
-A meta-analytic focusing on motor sequence learning (MSL) research, encompassing the datasets employed in the research.
+The dataset for our study on motor sequence learning comprises all focal brain activation coordinates (foci) used in the meta-analysis.
